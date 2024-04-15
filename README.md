@@ -14,6 +14,8 @@ You can also connect Firebase to your existing backend using our server-side lib
 
 
 - is firebase frontend or backend?
+  ##### ফায়ারবেস প্রায়শই অ্যাপ্লিকেশনগুলোর ব্যাকএন্ডে ব্যবহৃত হয়। এটি তথ্য সংরক্ষণ, প্রাথমিকীকরণ, হোস্টিং ইত্যাদি সেবা প্রদান করে, যা ধারাবাহিকভাবে ব্যাকএন্ড ডেভেলপমেন্ট সঙ্গে সংযুক্ত হয়। তবে, ফায়ারবেস ফ্রন্টএন্ড ফ্রেমওয়ার্ক এবং লাইব্রেরিস সহ সংমিশ্রিত করা যেতে পারে যেগুলি পূর্ণাঙ্গ স্ট্যাক অ্যাপ্লিকেশন তৈরি করতে ব্যবহৃত হয়। সুতরাং, যেহেতু ফায়ারবেস নিজেই ব্যাকএন্ড-ফোকাসড, এটি সাধারণত ফ্রন্টএন্ড কম্পোনেন্টগুলির সাথে সংকলন করে পূর্ণাঙ্গ অ্যাপ্লিকেশন তৈরি করতে ব্যবহৃত হয়।
+  
 - what is firebase architecture?
 - What are the features or firebase?What are the tasks you can accomplish with firebase ? 
 - Differences between firebase and mongodb? 

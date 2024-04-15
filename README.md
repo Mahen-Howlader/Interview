@@ -9,5 +9,5 @@
 - Can you briefly explain the github authentication process with firebase? 
 - Which method is used to Sign-tn the user in firebase Email/Password authentication? 
 - Authentication VS Authorization?
-- Can you tell me names of 3 authentication method?
+- Can you tell me names of 3 authentication method?(hint: sms/email code ,voice ,password ,fingerprient ,face verification)
 - Which authentication methods have you ever used for your project purpose?
